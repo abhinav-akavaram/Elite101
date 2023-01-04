@@ -1,3 +1,2 @@
 # Elite101
-this is a repo for all my files for the code2college elite 101 program
-example
+A starting point for all Elite 101 course work for the 2023 Jan-Feb wave 1.
